@@ -1,4 +1,4 @@
-# API-Management-Azure [link](https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
+# Azure API Management- [link](https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - Azure API Management helps securely expose services hosted on and outside of Azure as APIs
   - Azure API Management is made up of an API gateway, a management plane, and a developer portal. API gateway can verify the IP range, credentials like JWT tokens and certificates presented with requests
 
